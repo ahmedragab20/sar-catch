@@ -6,12 +6,12 @@ settings:
 
 dependencies:
   ar-catch:
-    specifier: ^0.0.17
-    version: 0.0.17(typescript@5.0.2)
+    specifier: ^0.0.23
+    version: 0.0.23(typescript@5.0.2)
 
 devDependencies:
   typescript:
-    specifier: ^5.0.2
+    specifier: ^5.0.1
     version: 5.0.2
   vite:
     specifier: ^4.4.5
@@ -217,8 +217,8 @@ packages:
     dev: true
     optional: true
 
-  /ar-catch@0.0.17(typescript@5.0.2):
-    resolution: {integrity: sha512-VGRHQ4w8Cu80+bWDFD7IxD4uAGyi5RUWBUXbYMzlTW7T8JuIGyWDc3rZfbJ0YohSJp8l095dtq42LrLhJYK4sw==}
+  /ar-catch@0.0.23(typescript@5.0.2):
+    resolution: {integrity: sha512-4jBxYrp0f3vn+yfWiGxr49i+OrUwe0UH5qHvOoBAUKYYyX/ELdfTOGk3uBqMQhdkoPF54arExCHhm/mdC+0zIg==}
     peerDependencies:
       typescript: ^5.0.2
     dependencies:

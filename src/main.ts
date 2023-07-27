@@ -1,3 +1,2 @@
-import useCatch from 'ar-catch'
+console.log(`%c🎉Updated ARCatch`, 'color: #aaf; font-size: 1.2rem; font-weight: bold;');
 
-console.log(useCatch);
